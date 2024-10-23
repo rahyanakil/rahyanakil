@@ -2,10 +2,10 @@
   <img src="https://media.licdn.com/dms/image/v2/D5616AQHxjc5t5sLnbQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1711396559537?e=1730937600&v=beta&t=7OUfpkrvjhchgErTL8q8boxtRlrRBZrPIyDDyLW6_rw" alt="Banner" />
 </p>
 Hi! This is Rahyan Shamsi Akil
-==================================================================================================================================================================
+======================================================================================================================================================================================
 
 <h1>Front End Web Developer</h1>
-==================================================================================================================================================================
+======================================================================================================================================================================================
 
 Hey! I am a passionate MERN stack developer with a knack for creating robust and innovative web applications. I thrive in crafting seamless user experiences and building scalable solutions. Delivering an intuitive and visually pleasing experience to users. I am well-positioned to contribute HTML | CSS |Bootstrap| Tailwind | JavaScript and React knowledge.
 

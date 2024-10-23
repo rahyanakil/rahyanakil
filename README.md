@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://media.licdn.com/dms/image/v2/D5616AQHxjc5t5sLnbQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1711396559537?e=1730937600&v=beta&t=7OUfpkrvjhchgErTL8q8boxtRlrRBZrPIyDDyLW6_rw" alt="Banner" />
 </p>
-Hi ![(https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)] My name is Rahyan Shamsi Akil
+Hi! This is Rahyan Shamsi Akil
 ==========================================================================================================================================
 
 Front End Web Developer

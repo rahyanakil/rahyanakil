@@ -4,8 +4,8 @@
 Hi! This is Rahyan Shamsi Akil
 ==========================================================================================================================================
 
-Front End Web Developer
------------------------
+<h1>Front End Web Developer</h1>
+==========================================================================================================================================
 
 Hey! I am a passionate MERN stack developer with a knack for creating robust and innovative web applications. I thrive in crafting seamless user experiences and building scalable solutions. Delivering an intuitive and visually pleasing experience to users. I am well-positioned to contribute HTML | CSS |Bootstrap| Tailwind | JavaScript and React knowledge.
 

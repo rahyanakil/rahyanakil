@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://github.com/yourusername/your-repo-name/blob/main/images/banner.png?raw=true" alt="Banner" />
+  <img src="https://media.licdn.com/dms/image/v2/D5616AQHxjc5t5sLnbQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1711396559537?e=1736985600&v=beta&t=JxadXdyXeUpjWgfePTfXXnfuGyR9lcAlTlP_S0UMCY4" alt="Banner" />
 </p>
+
 
 Hi! This is Rahyan Shamsi Akil
 ========================================================================================================================================================================================

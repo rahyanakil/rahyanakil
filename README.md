@@ -12,7 +12,7 @@ Hi! This is Rahyan Shamsi Akil
 Hey! I am a passionate MERN stack developer with a knack for creating robust and innovative web applications. I thrive in crafting seamless user experiences and building scalable solutions. Delivering an intuitive and visually pleasing experience to users. I am well-positioned to contribute HTML | CSS |Bootstrap| Tailwind | JavaScript and React knowledge.
 
 * 🌍  I'm based in Bangladesh
-* 🖥️  See my portfolio at [Rahyan Shamsi Akil]([https://rahyanakil.vercel.app/])
+* 🖥️  See my portfolio at [Rahyan Shamsi Akil](https://rahyanakil.vercel.app/)
 * ✉️  You can contact me at [rahyanakil89@gmail.com](mailto:rahyanakil89@gmail.com)
 * 🧠  I'm learning MERN Stack
 * 🤝  I'm open to collaborating on Hexing

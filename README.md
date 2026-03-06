@@ -1,73 +1,79 @@
 <p align="center">
-  <img src="https://i.ibb.co.com/WskKr7P/cover-img.jpg" alt="Rahyan Shamsi Akil Banner" />
+  <img src="https://i.ibb.co.com/WskKr7P/cover-img.jpg" alt="Rahyan Shamsi Akil Banner" width="100%" />
 </p>
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=rahyanakil&label=Profile%20views&color=0e75b6&style=flat" alt="rahyanakil views" /> 
-</p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=rahyanakil&label=Profile%20views&color=4B88F6&style=flat-square" alt="views" />
+  <img src="https://img.shields.io/github/followers/rahyanakil?label=Followers&style=flat-square&color=4B88F6" alt="followers" />
+</div>
 
-<h1 align="center">Hi 👋, I'm Rahyan Shamsi Akil</h1>
+<h1 align="center">✨ Hi there, I'm Rahyan Shamsi Akil ✨</h1>
 
 <p align="center">
-  <a href="https://rahyanakil.vercel.app/">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Full%20Stack%20Software%20Engineer;MERN%20Stack%20Developer;Passionate%20Problem%20Solver;Always%20Learning%20New%20Technologies&center=true&width=450&height=45&color=4B88F6">
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Software+Engineer;MERN+/+PERN+Stack+Specialist;Building+Scalable+Web+Applications;Next.js+%26+TypeScript+Enthusiast&center=true&width=500&height=45&color=4B88F6&size=24">
 </p>
 
+---
+
+### 🧑‍💻 About Me
+I am a dedicated **Full Stack Software Engineer** based in Bangladesh, focused on building robust, scalable, and user-centric web applications. I specialize in the **PERN/SERN stack** (PostgreSQL, Express, React, Node.js) and have a strong passion for clean code and modern architecture.
+
+- 🔭 I'm currently working on [**QuickHire**](https://rahyanakil.vercel.app/), a specialized job board application.
+- 🌱 I'm deep-diving into **System Architecture** and **Backend Optimization**.
+- ⚡ I love working with **TypeScript, Prisma ORM, and Zod** for type-safe development.
+- 💬 Ask me about **React, Node.js, or PostgreSQL**.
+- 📫 Reach me at: [**rahyanakil89@gmail.com**](mailto:rahyanakil89@gmail.com)
+
+---
+
+### 📊 GitHub Analytics
 <div align="center">
- <img src="https://github-readme-streak-stats.herokuapp.com?user=rahyanakil&theme=highcontrast" alt="GitHub Streak" />
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=rahyanakil&show_icons=true&theme=transparent&hide_border=true&title_color=4B88F6&icon_color=4B88F6&text_color=ffffff" alt="Stats Card" height="180px" />
+      </td>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=rahyanakil&theme=transparent&hide_border=true&stroke=4B88F6&ring=4B88F6&fire=4B88F6&currStreakLabel=ffffff" alt="Streak Card" height="180px" />
+      </td>
+    </tr>
+  </table>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rahyanakil&show_icons=true&locale=en&layout=compact&theme=transparent&hide_border=true&title_color=4B88F6&text_color=ffffff" alt="Top Langs" width="450px" />
 </div>
 
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+---
 
-<h3 align="left">About me:</h3>
+### 🛠️ Tech Stack & Tools
 
-Hey! I am a passionate MERN stack developer with a knack for creating robust and innovative web applications. I thrive in crafting seamless user experiences and building scalable solutions. I am well-positioned to contribute my knowledge in HTML, CSS, JavaScript, and React to deliver intuitive and visually pleasing experiences.
-
-- 🌍  I'm based in **Bangladesh**
-- 🖥️  See my portfolio at [**Rahyan Shamsi Akil**](https://rahyanakil.vercel.app/)
-- ✉️  You can contact me at [**rahyanakil89@gmail.com**](mailto:rahyanakil89@gmail.com)
-- 🧠  I'm currently mastering the **MERN Stack**
-- 🤝  I'm open to collaborating on **Hexing** and other innovative projects
-
-<h3 align="left">Connect with me:</h3>
+**Frontend & Logic**
 <p align="left">
-<a href="https://www.linkedin.com/in/rahyanshamsi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-<a href="https://www.facebook.com/rahyanakil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" /></a>
-<a href="http://www.instagram.com/rahyanakil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
-<a href="https://www.x.com/Rahyan_Akil4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@rahyan_akil2389" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youtube" height="30" width="40" /></a>
-<a href="https://www.stackoverflow.com/users/rahyanakil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="stackoverflow" height="30" width="40" /></a>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
 </p>
 
-<h3 align="left">Github Badges:</h3>
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> 
-<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
-<a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
-<a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
-
-<h3 align="left">Skills & Tools:</h3>
-
+**Backend & Database**
 <p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-  <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-  <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" width="36" height="36" alt="NextJs" /></a>
-  <a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
-  <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="36" height="36" alt="Express" /></a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
-  <a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
 </p>
 
-<br />
+---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rahyanakil&show_icons=true&locale=en&layout=compact&theme=dark" alt="rahyanakil languages" />
-</div>
+### 🤝 Connect with Me
+<p align="left">
+  <a href="https://linkedin.com/in/rahyanshamsi/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://rahyanakil.vercel.app/" target="blank"><img src="https://img.shields.io/badge/Portfolio-4B88F6?style=for-the-badge&logo=react&logoColor=white" /></a>
+  <a href="https://fb.com/rahyanakil" target="blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=4B88F6&height=100&section=footer" />
+</p>

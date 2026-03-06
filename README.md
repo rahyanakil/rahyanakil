@@ -24,7 +24,22 @@ I am a passionate **Full Stack Software Engineer** based in Bangladesh, speciali
 - 📫 **Contact:** Reach me at [**rahyanakil89@gmail.com**](mailto:rahyanakil89@gmail.com).
 
 ---
+---
 
+### 💼 Professional Experience
+**Executive Backend Developer** | Prime Tech Solution Limited  
+*(Jul 2024 - Jan 2025)* - Designed scalable RESTful APIs using **Node.js, Express, and TypeScript**.
+- Implemented **Clean Architecture** and secure **RBAC** systems.
+
+**Full Stack Developer** | Through ED Limited  
+*(Dec 2023 - May 2024)* - Contributed to backend services for **ADA | Axiata Group Berhad**.
+- Built real-time data dashboards and optimized MongoDB performance.
+
+---
+
+### 🏆 Problem Solving
+- **550+ Problems Solved** across Codeforces, LeetCode, and HackerRank.
+- Strong foundation in **Data Structures and Algorithms (DSA)**.
 ### 📊 GitHub Stats & Analytics
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=rahyanakil&show_icons=true&theme=radical&hide_border=true&title_color=4B88F6&icon_color=4B88F6" width="48%" />

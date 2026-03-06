@@ -10,35 +10,27 @@
 <h1 align="center">✨ Hi there, I'm Rahyan Shamsi Akil ✨</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Software+Engineer;MERN+/+PERN+Stack+Specialist;Building+Scalable+Web+Applications;Next.js+%26+TypeScript+Enthusiast&center=true&width=500&height=45&color=4B88F6&size=24">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Software+Engineer;MERN+/+PERN+Stack+Specialist;Next.js+%26+TypeScript+Enthusiast;Passionate+Problem+Solver&center=true&width=500&height=45&color=4B88F6&size=24">
 </p>
 
 ---
 
 ### 🧑‍💻 About Me
-I am a dedicated **Full Stack Software Engineer** based in Bangladesh, focused on building robust, scalable, and user-centric web applications. I specialize in the **PERN/SERN stack** (PostgreSQL, Express, React, Node.js) and have a strong passion for clean code and modern architecture.
+I am a dedicated **Full Stack Software Engineer** based in Bangladesh. I specialize in building robust, scalable web applications using the **PERN stack** (PostgreSQL, Express, React, Node.js).
 
-- 🔭 I'm currently working on [**QuickHire**](https://rahyanakil.vercel.app/), a specialized job board application.
-- 🌱 I'm deep-diving into **System Architecture** and **Backend Optimization**.
-- ⚡ I love working with **TypeScript, Prisma ORM, and Zod** for type-safe development.
-- 💬 Ask me about **React, Node.js, or PostgreSQL**.
-- 📫 Reach me at: [**rahyanakil89@gmail.com**](mailto:rahyanakil89@gmail.com)
+- 🔭 **Currently Working:** Developing [**QuickHire**](https://rahyanakil.vercel.app/), a job board application.
+- 🌱 **Learning:** Deep diving into System Architecture and Backend Optimization.
+- ⚡ **Passion:** Building type-safe applications with **TypeScript, Prisma, and Zod**.
+- 📫 **Contact:** Reach me at [**rahyanakil89@gmail.com**](mailto:rahyanakil89@gmail.com).
 
 ---
 
-### 📊 GitHub Analytics
+### 📊 GitHub Ecosystem
 <div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=rahyanakil&show_icons=true&theme=transparent&hide_border=true&title_color=4B88F6&icon_color=4B88F6&text_color=ffffff" alt="Stats Card" height="180px" />
-      </td>
-      <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=rahyanakil&theme=transparent&hide_border=true&stroke=4B88F6&ring=4B88F6&fire=4B88F6&currStreakLabel=ffffff" alt="Streak Card" height="180px" />
-      </td>
-    </tr>
-  </table>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rahyanakil&show_icons=true&locale=en&layout=compact&theme=transparent&hide_border=true&title_color=4B88F6&text_color=ffffff" alt="Top Langs" width="450px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rahyanakil&show_icons=true&theme=radical&hide_border=true&title_color=4B88F6&icon_color=4B88F6" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahyanakil&theme=radical&hide_border=true&ring=4B88F6&fire=4B88F6" width="48%" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rahyanakil&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true&title_color=4B88F6" width="380px" />
 </div>
 
 ---
@@ -51,18 +43,14 @@ I am a dedicated **Full Stack Software Engineer** based in Bangladesh, focused o
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
 </p>
 
 **Backend & Database**
 <p align="left">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
 </p>
 
 ---

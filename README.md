@@ -15,7 +15,7 @@
 </p>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahyanakil&theme=dark&background=1a1b27&ring=4B88F6&currStreakLabel=4B88F6" alt="Rahyan Akil Streak" />
+ <img src="https://github-readme-streak-stats.herokuapp.com?user=rahyanakil&theme=highcontrast" alt="GitHub Streak" />
 </div>
 
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">

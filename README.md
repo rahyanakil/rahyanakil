@@ -27,8 +27,8 @@ I am a results-driven **Full Stack Software Engineer** with a strong foundation 
 
 ### 📊 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rahyanakil&show_icons=true&theme=radical&hide_border=true&title_color=4B88F6&icon_color=4B88F6" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahyanakil&theme=radical&hide_border=true&ring=4B88F6&fire=4B88F6" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rahyanakil&show_icons=true&theme=radical&hide_border=true&title_color=4B88F6&icon_color=4B88F6" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rahyanakil&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true&title_color=4B88F6" width="48%" alt="Top Languages" />
 </p>
 
 <p align="center">

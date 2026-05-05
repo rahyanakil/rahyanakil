@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co.com/WskKr7P/cover-img.jpg" alt="Rahyan Shamsi Akil Banner" width="100%" />
+  <img src="https://i.ibb.co.com/MxgCxTbd/GITHUB-BANNER.png" alt="Rahyan Shamsi Akil Banner" width="100%" />
 </p>
 
 <div align="center">
